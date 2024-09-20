@@ -1,0 +1,55 @@
+img {
+    max-width: 200px;  
+    text-align: center; 
+   }
+
+   h1 {
+    margin: -30px auto;    
+    text-align: center; 
+  }
+  
+  h2 {
+    margin: 20px auto;   
+    text-align: center;
+  }
+
+
+form {
+    max-width: 250px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 1px solid #111111;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(10, 10, 10, 0.1);
+    
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8%;
+  }
+  
+  input[type="text"], input[type="Password"] {
+    width: 90%;
+    height: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #0c0c0c;
+
+  }
+  
+  button[type="submit"] {
+    background-color: #0a0a0a;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #0c0c0c;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0e0d0d;
+   
+  }
